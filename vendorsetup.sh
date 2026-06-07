@@ -14,5 +14,3 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_d1x-eng
-
