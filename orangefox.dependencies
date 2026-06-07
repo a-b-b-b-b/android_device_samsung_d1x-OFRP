@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_samsung_exynos9820-common",
+    "target_path": "device/samsung/exynos9820-common",
+    "revision": "lineage-19.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "lineage-19.1"
+  }
+]
