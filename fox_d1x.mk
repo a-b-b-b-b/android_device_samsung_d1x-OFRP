@@ -42,3 +42,8 @@ OF_KEEP_DM_VERITY := 1
 OF_ENABLE_LPTOOLS := 1
 
 OF_MAINTAINER := chernobyl
+
+# Maximum permissible splash image size (in kilobytes); do *NOT* increase
+OF_SPLASH_MAX_SIZE := 130
+
+OF_ADVANCED_SECURITY := 1
