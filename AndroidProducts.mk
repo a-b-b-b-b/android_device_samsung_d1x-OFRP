@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_d1x.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_d1x.mk
 
