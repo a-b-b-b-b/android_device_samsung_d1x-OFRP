@@ -6,7 +6,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier
 PRODUCT_DEVICE := d1x
-PRODUCT_NAME := omni_d1x
+PRODUCT_NAME := twrp_d1x
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy Note 10 5G
 PRODUCT_MANUFACTURER := samsung
